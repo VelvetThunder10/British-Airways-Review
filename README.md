@@ -23,7 +23,7 @@ This project presents an in-depth analysis of British Airways reviews using Tabl
 ## Project Features
 
 - Interactive Dashboards: Visual representations of passenger reviews with filters for different aspects.
-- 
+  
 - Trend Analysis: Examination of trends over time in various review categories.
 
 ## Data Source
