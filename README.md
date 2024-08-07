@@ -10,7 +10,7 @@ This project presents an in-depth analysis of British Airways reviews using Tabl
  
 - Cabin Staff Service: Efficiency, friendliness, and professionalism of the cabin crew.
 
-  Seat Comfort: Comfort and space of the seating arrangements.
+ - Seat Comfort: Comfort and space of the seating arrangements.
 
 - Ground Service: Quality of services provided before boarding, including check-in and baggage handling.
 
